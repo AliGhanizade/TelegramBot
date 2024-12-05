@@ -18,7 +18,7 @@ This repository contains a simple Telegram bot implemented in the Go programming
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AliGhanizade/telegram_bot.git
+   git clone https://github.com/AliGhanizade/TelegramBot.git
    ```
    
 2. Navigate to the project directory:
