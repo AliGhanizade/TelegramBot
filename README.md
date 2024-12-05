@@ -37,7 +37,7 @@ Before running the bot, you need to set your Telegram Bot Token. You can obtain 
 
 Add your token to the environment variable:
 ```bash
-export TELEGRAM_BOT_TOKEN="your_bot_token_here"
+TELEGRAM_BOT_TOKEN="your_bot_token_here"
 ```
 
 ### Running the Bot
